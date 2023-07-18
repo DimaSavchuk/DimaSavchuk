@@ -16,8 +16,7 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill stack
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -36,7 +35,6 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
@@ -70,22 +68,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DimaSavchuk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
