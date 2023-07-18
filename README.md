@@ -59,8 +59,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
 
@@ -68,3 +66,13 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DimaSavchuk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+## My Projects
+
+Here are some interesting projects I've worked on:
+
+1. [Mimino](https://dimasavchuk.github.io/mimino/) - Website of the hotel and restaurant complex "Mimino".
+2. [Bookshelf](https://dimasavchuk.github.io/bookshelf/) - Library of books with the ability to create your own reading list.
+3. [Movie stock](https://dimasavchuk.github.io/movie-stock/) - A movie library with the ability to view some information about the movie.
+
+<br/>
